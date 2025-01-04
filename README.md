@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waruni Sawindi</h1>
 <h3 align="center">Aspiring Web Developer | IT Undergraduate | Passionate about Interactive Media and Creative Solutions</h3>
-<img align="right" width=300px alt="Unicorn" src="https://pngtree.com/freepng/cute-unicorn-working-on-laptop-cartoon-vector-icon-illustration-animal-technology-concept_14643910.html" />
+
+<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVlYnBjcW55NnhyYWQzZzB3cjcxaXc4aW9qZTRyNDZ4eDhkdWJjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 🌱 I’m currently learning **Wordpress, Flutter**
 
