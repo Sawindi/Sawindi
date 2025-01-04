@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waruni Sawindi</h1>
-<h3 align="center">Aspiring Web Developer | IT (Data Science) Undergraduate | Passionate about Interactive Media and Creative Solutions</h3>
+<h3 align="center">Aspiring Web Developer | IT Undergraduate | Passionate about Interactive Media and Creative Solutions</h3>
 
 - 🌱 I’m currently learning **Wordpress, Flutter**
 
