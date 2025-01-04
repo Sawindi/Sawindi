@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Wordpress, Flutter**
 
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
 - 📫 How to reach me **sawiotokch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
